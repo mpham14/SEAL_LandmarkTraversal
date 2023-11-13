@@ -1,0 +1,173 @@
+1.6775 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+6.4352 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [2880, 1920]. Using actual size
+8.7561 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001C81F2F5040>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001C824BA74F0>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([2880, 1920]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.7562 	EXP 	window1: mouseVisible = True
+8.7563 	EXP 	window1: mouseVisible = False
+8.7564 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+8.7564 	EXP 	window1: recordFrameIntervals = False
+8.9221 	EXP 	window1: recordFrameIntervals = True
+9.1057 	EXP 	Screen (0) actual frame rate measured at 60.00Hz
+9.1057 	EXP 	window1: recordFrameIntervals = False
+11.0261 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Welcome to the SEAL Landmark Traversal Task', units='height', win=Window(...), wrapWidth=1)
+11.0451 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+11.0669 	EXP 	Created Landmark = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='Landmark', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+11.0715 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0.  , 0.35]), rgb=UNKNOWN, text='Please find this object\n\n', units='height', win=Window(...), wrapWidth=1)
+11.1513 	EXP 	window1: mouseVisible = True
+11.2220 	EXP 	window1: mouseVisible = True
+11.2229 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+11.2508 	EXP 	text: autoDraw = True
+14.2559 	EXP 	text: autoDraw = False
+14.2559 	EXP 	text_2: autoDraw = True
+16.6145 	EXP 	Imported LandmarkTrav_Stimuli.xlsx as conditions, 12 conditions, 1 params
+16.6157 	EXP 	Created sequence: sequential, trialTypes=12, nReps=1, seed=None
+16.6159 	EXP 	New trial (rep=0, index=0): {'image': 'TravImages/Landmark1_book.jpeg'}
+17.1945 	DATA 	Keypress: space
+17.3953 	EXP 	text_2: autoDraw = False
+17.3953 	EXP 	Landmark: image = 'TravImages/Landmark1_book.jpeg'
+17.3953 	EXP 	Landmark: autoDraw = True
+17.3953 	EXP 	text_4: autoDraw = True
+19.3317 	DATA 	Mouse: Left button down, pos=(1084,257)
+19.3321 	DATA 	Mouse:  Left button up, pos=(1084,257)
+20.2491 	DATA 	Mouse: Left button down, pos=(1132,283)
+20.2493 	DATA 	Mouse:  Left button up, pos=(1132,283)
+21.2737 	DATA 	Mouse: Left button down, pos=(1669,232)
+21.2739 	DATA 	Mouse:  Left button up, pos=(1669,232)
+21.8174 	DATA 	Mouse: Left button down, pos=(1741,213)
+21.8177 	DATA 	Mouse:  Left button up, pos=(1741,213)
+23.6298 	DATA 	Mouse: Left button down, pos=(1752,196)
+23.6463 	EXP 	New trial (rep=0, index=1): {'image': 'TravImages/Landmark2_painting.jpeg'}
+24.0196 	DATA 	Mouse:  Left button up, pos=(1752,196)
+24.2717 	EXP 	Landmark: autoDraw = False
+24.2717 	EXP 	text_4: autoDraw = False
+24.2717 	EXP 	Landmark: image = 'TravImages/Landmark2_painting.jpeg'
+24.2717 	EXP 	Landmark: autoDraw = True
+24.2717 	EXP 	text_4: autoDraw = True
+24.2731 	DATA 	Mouse: Left button down, pos=(1752,196)
+24.2768 	EXP 	New trial (rep=0, index=2): {'image': 'TravImages/Landmark3_WaterFountain.jpeg'}
+24.6379 	DATA 	Mouse:  Left button up, pos=(1752,196)
+24.6572 	EXP 	Landmark: autoDraw = False
+24.6572 	EXP 	text_4: autoDraw = False
+24.6572 	EXP 	Landmark: image = 'TravImages/Landmark3_WaterFountain.jpeg'
+24.6572 	EXP 	Landmark: autoDraw = True
+24.6572 	EXP 	text_4: autoDraw = True
+25.9075 	DATA 	Mouse: Left button down, pos=(1601,218)
+25.9078 	DATA 	Mouse:  Left button up, pos=(1601,218)
+26.4093 	DATA 	Mouse: Left button down, pos=(1780,242)
+26.4094 	DATA 	Mouse:  Left button up, pos=(1780,242)
+26.7924 	DATA 	Mouse: Left button down, pos=(1831,297)
+26.7925 	DATA 	Mouse:  Left button up, pos=(1831,297)
+26.8801 	DATA 	Mouse: Left button down, pos=(1831,297)
+26.8826 	EXP 	New trial (rep=0, index=3): {'image': 'TravImages/Landmark4_vase.jpeg'}
+27.2215 	DATA 	Mouse:  Left button up, pos=(1833,284)
+27.2437 	EXP 	Landmark: autoDraw = False
+27.2437 	EXP 	text_4: autoDraw = False
+27.2437 	EXP 	Landmark: image = 'TravImages/Landmark4_vase.jpeg'
+27.2437 	EXP 	Landmark: autoDraw = True
+27.2437 	EXP 	text_4: autoDraw = True
+28.1171 	DATA 	Mouse: Left button down, pos=(1857,209)
+28.1182 	DATA 	Mouse:  Left button up, pos=(1857,209)
+29.0557 	DATA 	Mouse: Left button down, pos=(1843,275)
+29.0560 	DATA 	Mouse:  Left button up, pos=(1843,275)
+30.2321 	DATA 	Mouse: Left button down, pos=(1692,213)
+30.2332 	DATA 	Mouse:  Left button up, pos=(1692,213)
+30.8175 	DATA 	Mouse: Left button down, pos=(1812,331)
+30.8176 	DATA 	Mouse:  Left button up, pos=(1812,331)
+30.9336 	DATA 	Mouse: Left button down, pos=(1812,331)
+30.9458 	EXP 	New trial (rep=0, index=4): {'image': 'TravImages/Landmark5_painting.jpeg'}
+31.3033 	DATA 	Mouse:  Left button up, pos=(1823,319)
+31.3216 	DATA 	Mouse: Left button down, pos=(1835,303)
+31.3220 	DATA 	Mouse:  Left button up, pos=(1835,303)
+31.3429 	EXP 	Landmark: autoDraw = False
+31.3429 	EXP 	text_4: autoDraw = False
+31.3429 	EXP 	Landmark: image = 'TravImages/Landmark5_painting.jpeg'
+31.3429 	EXP 	Landmark: autoDraw = True
+31.3429 	EXP 	text_4: autoDraw = True
+32.0085 	DATA 	Mouse: Left button down, pos=(1852,313)
+32.0090 	DATA 	Mouse:  Left button up, pos=(1852,313)
+32.1671 	DATA 	Mouse: Left button down, pos=(1852,313)
+32.1771 	EXP 	New trial (rep=0, index=5): {'image': 'TravImages/Landmark6_map.jpeg'}
+32.6851 	DATA 	Mouse:  Left button up, pos=(1862,311)
+32.7052 	DATA 	Mouse: Left button down, pos=(1869,305)
+32.7053 	DATA 	Mouse:  Left button up, pos=(1869,305)
+32.8306 	EXP 	Landmark: autoDraw = False
+32.8306 	EXP 	text_4: autoDraw = False
+32.8306 	EXP 	Landmark: image = 'TravImages/Landmark6_map.jpeg'
+32.8306 	EXP 	Landmark: autoDraw = True
+32.8306 	EXP 	text_4: autoDraw = True
+33.7861 	DATA 	Mouse: Left button down, pos=(1877,319)
+33.7864 	DATA 	Mouse:  Left button up, pos=(1877,319)
+33.8792 	DATA 	Mouse: Left button down, pos=(1877,319)
+33.8818 	EXP 	New trial (rep=0, index=6): {'image': 'TravImages/Landmark7_painting.jpeg'}
+34.3605 	DATA 	Mouse:  Left button up, pos=(1887,313)
+34.4828 	EXP 	Landmark: autoDraw = False
+34.4828 	EXP 	text_4: autoDraw = False
+34.4828 	EXP 	Landmark: image = 'TravImages/Landmark7_painting.jpeg'
+34.4828 	EXP 	Landmark: autoDraw = True
+34.4828 	EXP 	text_4: autoDraw = True
+35.5495 	DATA 	Mouse: Left button down, pos=(1147,306)
+35.5496 	DATA 	Mouse:  Left button up, pos=(1147,306)
+35.6450 	DATA 	Mouse: Left button down, pos=(1147,306)
+35.6474 	EXP 	New trial (rep=0, index=7): {'image': 'TravImages/Landmark8_painting.jpeg'}
+36.1460 	DATA 	Mouse:  Left button up, pos=(1174,341)
+36.2673 	EXP 	Landmark: autoDraw = False
+36.2673 	EXP 	text_4: autoDraw = False
+36.2673 	EXP 	Landmark: image = 'TravImages/Landmark8_painting.jpeg'
+36.2673 	EXP 	Landmark: autoDraw = True
+36.2673 	EXP 	text_4: autoDraw = True
+38.0903 	DATA 	Mouse: Left button down, pos=(1821,239)
+38.0912 	DATA 	Mouse:  Left button up, pos=(1835,215)
+38.2245 	DATA 	Mouse: Left button down, pos=(1859,253)
+38.2249 	DATA 	Mouse:  Left button up, pos=(1859,253)
+40.0235 	DATA 	Mouse: Left button down, pos=(1824,236)
+40.0241 	DATA 	Mouse:  Left button up, pos=(1824,236)
+40.1798 	DATA 	Mouse: Left button down, pos=(1824,236)
+40.1831 	EXP 	New trial (rep=0, index=8): {'image': 'TravImages/Landmark9_painting.jpeg'}
+40.7819 	DATA 	Mouse:  Left button up, pos=(1839,236)
+40.8019 	EXP 	Landmark: autoDraw = False
+40.8019 	EXP 	text_4: autoDraw = False
+40.8019 	EXP 	Landmark: image = 'TravImages/Landmark9_painting.jpeg'
+40.8019 	EXP 	Landmark: autoDraw = True
+40.8019 	EXP 	text_4: autoDraw = True
+41.6010 	DATA 	Mouse: Left button down, pos=(1814,256)
+41.6013 	DATA 	Mouse:  Left button up, pos=(1814,256)
+41.6799 	DATA 	Mouse: Left button down, pos=(1814,256)
+41.6822 	EXP 	New trial (rep=0, index=9): {'image': 'TravImages/Landmark10_statue.jpeg'}
+42.0752 	DATA 	Mouse:  Left button up, pos=(1844,267)
+42.1992 	EXP 	Landmark: autoDraw = False
+42.1992 	EXP 	text_4: autoDraw = False
+42.1992 	EXP 	Landmark: image = 'TravImages/Landmark10_statue.jpeg'
+42.1992 	EXP 	Landmark: autoDraw = True
+42.1992 	EXP 	text_4: autoDraw = True
+45.6994 	DATA 	Mouse: Left button down, pos=(1897,257)
+45.7005 	DATA 	Mouse:  Left button up, pos=(1897,257)
+45.8126 	DATA 	Mouse: Left button down, pos=(1897,257)
+45.8158 	EXP 	New trial (rep=0, index=10): {'image': 'TravImages/Landmark11_painting.jpeg'}
+46.2347 	DATA 	Mouse:  Left button up, pos=(1904,273)
+46.2553 	EXP 	Landmark: autoDraw = False
+46.2553 	EXP 	text_4: autoDraw = False
+46.2553 	EXP 	Landmark: image = 'TravImages/Landmark11_painting.jpeg'
+46.2553 	EXP 	Landmark: autoDraw = True
+46.2553 	EXP 	text_4: autoDraw = True
+49.0586 	DATA 	Mouse: Left button down, pos=(1180,300)
+49.0591 	DATA 	Mouse:  Left button up, pos=(1180,300)
+49.1684 	DATA 	Mouse: Left button down, pos=(1180,300)
+49.1786 	EXP 	New trial (rep=0, index=11): {'image': 'TravImages/Landmark12_statue.jpeg'}
+49.7387 	DATA 	Mouse:  Left button up, pos=(1183,329)
+49.8639 	EXP 	Landmark: autoDraw = False
+49.8639 	EXP 	text_4: autoDraw = False
+49.8639 	EXP 	Landmark: image = 'TravImages/Landmark12_statue.jpeg'
+49.8639 	EXP 	Landmark: autoDraw = True
+49.8639 	EXP 	text_4: autoDraw = True
+50.7855 	DATA 	Mouse: Left button down, pos=(1185,313)
+50.7860 	DATA 	Mouse:  Left button up, pos=(1185,313)
+50.9114 	DATA 	Mouse: Left button down, pos=(1185,313)
+50.9271 	EXP 	Landmark: autoDraw = False
+50.9271 	EXP 	text_4: autoDraw = False
+50.9271 	EXP 	text_3: height = 0.05
+50.9271 	EXP 	text_3: height = 0.05
+50.9271 	EXP 	text_3: height = 0.05
+50.9271 	EXP 	text_3: text = 'Thank you for participating in the SEAL Landmark Traversal Task'
+50.9271 	EXP 	text_3: autoDraw = True
+50.9412 	DATA 	Mouse:  Left button up, pos=(1195,345)
+53.9456 	EXP 	text_3: autoDraw = False
+54.1198 	EXP 	window1: mouseVisible = True
